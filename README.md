@@ -1,5 +1,5 @@
 # Olá, Mundo!
- Primeiro repositório de GitHub.
+ Primeiro repositório de Git e GitHub.
 
 Repositório novinho!
 
